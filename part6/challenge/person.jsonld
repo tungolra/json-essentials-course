@@ -1,0 +1,16 @@
+{
+  "@context": "http://schema.org/",
+  "type": "Person",
+  "children": [
+    "child1",
+    "child2"
+  ],
+  "hasOccupation": {
+    "type": "Role",
+    "endDate": "22 July 2019",
+    "roleName": "Teacher",
+    "startDate": "11 February 2010"
+  },
+  "jobTitle": "Professor",
+  "name": "Jane Doe"
+}
